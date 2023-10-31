@@ -4,21 +4,22 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-## Who am I 
+### Hello There 👋
 
-I'm a French Msc student in Complex Systems at the Technological University of Compiègne (UTC, FR) . I've been studying computer science, and more specificaly complex systems engineering, and I'm specializing myself in various applications of Artificial Intelligence that i'm very interested in (eg. intelligent robotics).
+![](https://komarev.com/ghpvc/?username=jakcrimson&color=green&style=for-the-badge)
 
-# My Education
+- 🌱 I’m currently learning artificial intelligence and it's applications to machine learning at the **University of Lille, France.**
+- 🔭 I’m currently working on a Twitter (X) Sentiment Analysis project if you want to check out the repository, it's pinned on my profile ;)
+- 🪐 **I will be conducting my master's thesis on reinforcement learning applied to game speed-running and multi-agent learning.**
+- 👯 I’m looking to collaborate on various research projects involving reinforcement learning and image analysis.
 
-**Advanced Computer Science degree** at the Universitary Institute of Technology, Vannes, France.
-Score : top of the class over 50 students.
+- 📫 How to reach me: linkedIn (https://www.linkedin.com/in/name-surname-479344195/) or my email : name.surname@protonmail.com
+- ⚡ Fun fact: I lived in the UK for 3 years, in NZ for a year and in scotland for 6 months.
 
-**Former selections**
 
-Selected at the U. Of Salzburg (Austria) in the Erasmus Mundus Joint Master's degree : **Copernicus Master in Digital Earth**, Geodata science specialization (self-funded student).
+## 🚀 My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakcrimson&show_icons=true&theme=tokyonight)
 
-Selected for the **Advanced Robotics - Signal and Image Processing** master's degree at the Ecole Centrale Nantes.
 
-**New applications**
-
-Applying to the JEMARO Erasmus Mundus Master's degree in Intelligent Robotics. First year in Ecole Centrale Nantes, France. Second year in Keio University Japan.
+## 💻 My favorite languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcrimson&theme=tokyonight)

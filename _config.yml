@@ -23,10 +23,9 @@ timezone: Europe/Paris
 
 title: Pierre Lague                          # the main title
 
-tagline: B.Sc. Student   # it will display as the sub-title
+tagline: M.Sc. Student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -41,7 +40,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pierre Lague
-  email: pierre.lague@proton.com           # change to your email address
+  email: pierre.lague@protonmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Jakcrimson       # change to your github homepage
