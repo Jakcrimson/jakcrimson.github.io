@@ -32,7 +32,6 @@ The course's objective is to prepare you to answer these challenging questions, 
 - 📝 Design an appropriate algorithmic solution, exact or approximate, using classic structures and paradigms effectively: dynamic programming, greedy algorithms, exhaustive - search, and heuristic methods.
 - 📊 Analyze this solution: correctness, complexity.
 
-
 The first document is the pdf report of the first assignement on basic algorithmic problems and computability with different notions of complexity (space and time).
 
 <html>
@@ -41,7 +40,6 @@ The first document is the pdf report of the first assignement on basic algorithm
     </iframe>
   </body>
 </html>
-
 
 The second deocument is the pdf report of the second assignement relating the use of different programming paradigms (Divise to Reign, Dynamix Programming, Greedy etc.)
 
@@ -53,7 +51,6 @@ The second deocument is the pdf report of the second assignement relating the us
 </html>
 
 The following document is the pdf report of the third assignement relating the use of polynomial reductions applied to the BinPacking problem.
-
 
 <html>
   <body>
