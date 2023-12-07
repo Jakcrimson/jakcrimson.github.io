@@ -52,4 +52,12 @@ The second deocument is the pdf report of the second assignement relating the us
   </body>
 </html>
 
-More documents to come as the year goes on. The next assignement will be on Polynomial Regression for different classes of complexity.
+The following document is the pdf report of the third assignement relating the use of polynomial reductions applied to the BinPacking problem.
+
+
+<html>
+  <body>
+    <iframe src="/assets/posts/ACT_ulille/COMPTE_RENDU_ACT_TP3.pdf" width="100%" height="800px">
+    </iframe>
+  </body>
+</html>
