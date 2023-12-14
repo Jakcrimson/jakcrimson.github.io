@@ -58,3 +58,12 @@ The following document is the pdf report of the third assignement relating the u
     </iframe>
   </body>
 </html>
+
+And finally, the ultimate, the last, the absolute paroxism of this class : the heuristics subject. Took us a while but here we are !
+
+<html>
+  <body>
+    <iframe src="/assets/posts/ACT_ulille/COMPTE_RENDU_ACT_HEURISTICS.pdf" width="100%" height="800px">
+    </iframe>
+  </body>
+</html>
