@@ -31,7 +31,7 @@ Twitter Sentiment Analysis is a fundamental task in Natural Language Processing 
 ## Project Report 🛠️
 
 Following is the official report for the project.
-
+(Translation in English is WIP)
 <html>
   <body>
     <iframe src="/assets/posts/pjeb_XSA/Rapport_PJE_C.pdf" width="100%" height="800px">
