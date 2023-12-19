@@ -1,7 +1,7 @@
 ---
 title: Algorithms and Complexity - University of Lille
 author:
-  name: Pierre Lague & Paul-Henri Icher
+  name: Pierre Lague & Romain Lecleire
   link: 
 date: 2023-10-31 09:45:00 +0800
 categories: [Studies, U-Lille, Algorithmic]
@@ -59,7 +59,7 @@ The following document is the pdf report of the third assignement relating the u
   </body>
 </html>
 
-And finally, the ultimate, the last, the absolute paroxism of this class : the heuristics subject. Took us a while but here we are !
+And finally, the ultimate, the last, the absolute paroxism of this class : heuristics and meta-heuristics. Took us a while but here we are !
 
 <html>
   <body>
