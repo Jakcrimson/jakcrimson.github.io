@@ -14,49 +14,36 @@ image:
   height: 600
 ---
 
+# FLEC - Facial Landmark Emotion Classification Project
 
-In the scope of our project, we will attempt to create a classifier capable of recognizing six facial expressions:
+Welcome to the **Facial Landmark Emotion Classification (FLEC)** project! Our goal is to develop a robust classifier capable of recognizing six facial expressions using the 68 facial landmarks provided in .csv files.
 
-1. :smile: happy
-2. :fearful: fear
-3. :open_mouth: surprise
-4. :angry: anger
-5. 😵‍💫: disgust
-6. :disappointed: sadness
-
-We will use the 68 facial landmarks that delineate specific regions of the face contained in .csv files.
-
-## Steps of Our Project :mag:
+## Project Overview :mag:
 
 ### Step 1: Characterizing Expressions :dart:
 
-Our primary objective is to predict the `emotion` column in the `emotion.csv` file based on the facial points available in the `SXXX/omlands.csv` files.
+In this crucial step, we aim to predict the `emotion` column in the `emotion.csv` file based on the facial points available in the `SXXX/omlands.csv` files. Our approaches include:
 
-To characterize an expression, we can employ various approaches, including:
+1. Utilizing the coordinates of facial points.
+2. Analyzing the movement of points between neutral and apex emotion images.
 
-1. Consider the coordinates of the points.
-2. Consider the movement of the points between the neutral and apex emotion images.
-
-Faces may appear at different locations in the image, and they may vary in size. It might be interesting to attempt face alignment so that faces are aligned with respect to the eyes and nose (stable points irrespective of the expression). In our experiments, we will use points as they are or place them in a common frame of reference (as illustrated below). We will try both approaches.
+To enhance accuracy, we'll experiment with face alignment techniques, exploring both the use of raw points and a common frame of reference.
 
 ### Step 2: Handling Imbalance :balance_scale:
 
-In a second phase, as the dataset is highly imbalanced, we will construct a new version of the dataset that ensures a balance between the number of instances for each expression. We will assess if the results vary significantly from the initial configuration.
+Given the highly imbalanced dataset, our second phase focuses on creating a balanced dataset. We'll assess the impact on results compared to the initial configuration, ensuring more reliable and unbiased model training.
 
 ### Step 3: Study of Occlusions and Noises :dark_sunglasses:
 
-Occlusion results in the unavailability of a certain subset of points. For example, an occlusion of the left eye results in the absence of points (37 to 42), and an occlusion of the mouth results in the absence of points (49-68). Noise can also be artificially added to certain points by altering their values.
-
-In a third phase, we will examine performance in the presence of facial occlusions and noises. The main question is to what extent the learning techniques proposed in the previous questions are robust to these alterations and noises in terms of extent and intensity.
+Understanding the impact of occlusions and noises on facial landmarks is crucial for real-world applications. 
 
 #### Step 3.1: Creating Occlusions and Noises :see_no_evil:
 
-We will code different occlusions and different noises, starting from small regions around significant elements such as the eyes, eyebrows, and mouth, and progressing to larger occlusions that hide half of the face.
+We'll simulate various occlusions and noises, starting from small regions (e.g., eyes, eyebrows) to larger occlusions. This step aims to evaluate model robustness under different alteration scenarios.
 
 #### Step 3.2: Evaluating Robustness :chart_with_upwards_trend:
 
-We will answer the main question above by relying on quantification, i.e., through appropriate measurements.
-
+Our evaluation will provide insights into how well our learning techniques handle occlusions and noises. Quantification and appropriate measurements will guide our assessment of robustness.
 
 ## Project Report 🛠️
 
@@ -71,9 +58,12 @@ Following is the official report for the project.
 
 ## Contributing 🤝
 
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request on the public repository @ (https://github.com/Jakcrimson/pjeb_twitter_sentiment_analysis)
+Contributions are highly encouraged! If you have suggestions, improvements, or feature requests, feel free to open an issue or create a pull request on our [public repository](https://github.com/Jakcrimson/pjeb_twitter_sentiment_analysis).
 
 ## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Developed by Pierre LAGUE and François MULLER (@franzele21) at the University of Lille, France. 🚀📊
+
+Let's make facial emotion classification more accurate and reliable together! 🌟👥
