@@ -104,6 +104,7 @@ int main() {
 ```
 
 - When executing the script with the ubuntu user, the following output is obtained:
+
 ```
 ubuntu@vm1:~$ ./a.out 
 EUID: 1000
@@ -114,9 +115,11 @@ RGID: 1000
 Content of file mydir/mydata.txt:
 Hello World
 ``` 
+
 Because the file is in read permission for the ubuntu user and ubuntu group.
 
 - When executing the script with the user toto, the following output is obtained:
+
 ```
 toto@vm1:/home/ubuntu$ ./a.out 
 EUID: 1001
@@ -127,6 +130,7 @@ RGID: 1001
 Content of file mydir/mydata.txt:
 Hello World
 ```
+
 We notice that the process IDs are different and that the file content can still be read.
 `mydir` and `mydata` are in read and execute permission for the `ubuntu` group.
 
@@ -150,6 +154,7 @@ RGID: 1001
 Content of file mydir/mydata.txt:
 Hello World !!!!!
 ```
+
 We find the processes of the `toto` user.
 
 ## Question 4
@@ -321,6 +326,7 @@ Access denied
 see q8. and directory q9.
 
 >User is already in the database
+
 ```bash
 display before
 
@@ -334,6 +340,7 @@ display after
 ```
 
 >User added to the database
+
 ```bash
 display before
 
@@ -352,6 +359,7 @@ see directory q10.
 an example of execution:
 
 >here the server is listening
+
 ```bash
 
 admin@vm1:/root/partage$ ./test-server.sh 
@@ -360,11 +368,11 @@ Socket successfully created..
 Socket successfully binded..
 Server listening..
 server accept the client...
-
 ```
 
 >when launching the test client script, the client connects to the server and can communicate.
 We didn't have time to link the scripts from questions 8 and 9 properly, nor to implement the fork() properly.
+
 ```bash
 admin@vm1:/root/partage$ ./test-client.sh 
 CLIENT
@@ -382,6 +390,7 @@ Enter the string : close # the client terminates the exchange
 Client Exit...
 
 ```
+
 In the example, and referring to our test script, it is possible to list the contents of a directory (here dir_a, with the `admin` user).
 
 ---
