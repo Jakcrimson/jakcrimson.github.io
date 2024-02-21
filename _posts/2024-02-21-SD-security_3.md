@@ -3,7 +3,7 @@ title: Cybersecurity3 - Introduction to secure systems - University of Lille
 author:
   name: Pierre Lague & François Muller (@franzele21)
   link: 
-date: 2024-02-10 09:45:00 +0800
+date: 2024-02-21 09:45:00 +0800
 categories: [Studies, U-Lille]
 tags: [Python, Security, C]
 math: true
