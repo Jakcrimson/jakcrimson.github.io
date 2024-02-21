@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity2 - Introduction to secure systems - University of Lille
 author:
-  name: Pierre Lague & François Muller (@franzele21)
+  name: Pierre Lague & Paul-Henri ICHER
   link: 
 date: 2024-02-10 09:45:00 +0800
 categories: [Studies, U-Lille]
