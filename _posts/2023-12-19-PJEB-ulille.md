@@ -51,5 +51,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments 🙌
 
 Special thanks to Paul-Henri ICHER (@PHITAJ) and Sebastian SAFARI (@sebss) for the contributions to this project!
-
-Enjoy! 🚀✨

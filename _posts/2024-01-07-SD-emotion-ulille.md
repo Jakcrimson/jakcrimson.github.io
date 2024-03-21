@@ -58,12 +58,10 @@ Following is the official report for the project.
 
 ## Contributing 🤝
 
-Contributions are highly encouraged! If you have suggestions, improvements, or feature requests, feel free to open an issue or create a pull request on our [public repository](https://github.com/Jakcrimson/pjeb_twitter_sentiment_analysis).
+Contributions are highly encouraged! If you have suggestions, improvements, or feature requests, feel free to open an issue or create a pull request on our [public repository](https://github.com/Jakcrimson/facial_landmark_emotion_classification).
 
 ## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Developed by Pierre LAGUE and François MULLER (@franzele21) at the University of Lille, France. 🚀📊
-
-Let's make facial emotion classification more accurate and reliable together! 🌟👥
