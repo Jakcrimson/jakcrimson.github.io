@@ -1,5 +1,5 @@
 ---
-title: Dimension Reduction - Uniform Manifold Approximation and Projection
+title: Deep Learning - Denoising Autoencoder
 author:
   name: Pierre Lague & Ilian VANDENBERGHE
   link: 
