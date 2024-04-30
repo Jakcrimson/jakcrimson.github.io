@@ -9,7 +9,7 @@ tags: [Python, ML]
 math: true
 mermaid: true
 image:
-  src: '/assets/posts/umap/header.png'
+  src: '/assets/posts/autoencodeur/DenoisingAutoencoder/ae.png
   width: 800
   height: 600
 ---
