@@ -1,15 +1,15 @@
 ---
-title: Denoising Autoencoder
+title: Dimension Reduction - Uniform Manifold Approximation and Projection
 author:
-  name: Pierre Lague & Ilian VANDENBERGHE
+  name: Pierre Lague & François MULLER
   link: 
-date: 2024-03-04 09:45:00 +0800
+date: 2024-04-11 09:45:00 +0800
 categories: [Studies, U-Lille, Python]
 tags: [Python, ML]
 math: true
 mermaid: true
 image:
-  src: '/assets/posts/autoencodeur/DenoisingAutoencoder/ae.png
+  src: '/assets/posts/autoencodeur/DenoisingAutoencoder/ae.png'
   width: 800
   height: 600
 ---
