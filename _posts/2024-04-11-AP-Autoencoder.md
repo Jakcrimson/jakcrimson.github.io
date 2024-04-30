@@ -1,21 +1,20 @@
 ---
-title: Deep Learning - Denoising Autoencoder
+title: Dimension Reduction - Uniform Manifold Approximation and Projection
 author:
-  name: Pierre Lague & François Muller 
+  name: Pierre Lague & Ilian VANDENBERGHE
   link: 
-date: 2024-04-11 09:45:00 +0800
+date: 2024-03-04 09:45:00 +0800
 categories: [Studies, U-Lille, Python]
 tags: [Python, ML]
 math: true
 mermaid: true
 image:
-  src: '/assets/posts/autoencodeur/DenoisingAutoencoder/ae.png'
+  src: '/assets/posts/umap/header.png'
   width: 800
-marp: false
   height: 600
 ---
 
-# Denoising Autoencoder 🔉
+# Deep Learning - Autoencoders 🔉
 
 * [Etude Autoencodeur](#etude-ae)
     * [Exploration et création des bruits](#exploration-et-création-des-bruits)
@@ -40,9 +39,7 @@ marp: false
 
 
 
-
-
-# Etude Autoencodeur <a id="etude-ae"></a>
+# Autoencodeurs <a id="etude-ae"></a>
 
 Un autoencodeur est un réseau de neurones utilisé pour la réduction de dimension ; c'est-à-dire pour la sélection et l'extraction des caractéristiques. Les autoencodeurs avec plus de couches cachées que d'entrées courent le risque d'apprendre la fonction identité - où la sortie est simplement égale à l'entrée - devenant ainsi inutiles.
 Les autoencodeurs de débruitage sont une extension de l'autoencodeur de base, et représentent une version stochastique de celui-ci. Les autoencodeurs de débruitage tentent de résoudre le risque de la fonction identité en corrompant aléatoirement l'entrée (c'est-à-dire en introduisant du bruit) que l'autoencodeur doit ensuite reconstruire, ou débruiter.
