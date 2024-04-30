@@ -275,7 +275,7 @@ plt.tight_layout()
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_11_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_11_0.png)
     
 
 
@@ -750,7 +750,7 @@ plt.plot(range(len(losslist)), losslist), true_error
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_36_1.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_36_1.png)
     
 
 
@@ -775,7 +775,7 @@ for i, noise in enumerate(["gaussian", "speckle", "salt_pepper", ""]):
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_39_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_39_0.png)
     
 
 
@@ -800,7 +800,7 @@ for i, noise in enumerate(["gaussian", "speckle", "salt_pepper", ""]):
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_42_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_42_0.png)
     
 
 
@@ -821,7 +821,7 @@ for i, noise in enumerate(["gaussian", "speckle", "salt_pepper", ""]):
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_43_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_43_0.png)
     
 
 
@@ -997,7 +997,7 @@ true_error_all
 plt.plot(losslist_all)
 ```
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_56_1.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_56_1.png)
     
 
 
@@ -1029,7 +1029,7 @@ for i, noise in enumerate(["gaussian", "speckle", "salt_pepper", ""]):
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_59_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_59_0.png)
     
 
 
@@ -1053,7 +1053,7 @@ for i, noise in enumerate(["gaussian", "speckle", "salt_pepper", ""]):
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_60_0.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_60_0.png)
     
 
 
@@ -1074,7 +1074,7 @@ plt.imshow(best_model_all.encode(torch.tensor(dirty.flatten()).type(torch.FloatT
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_62_1.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_62_1.png)
     
 
 
@@ -1274,8 +1274,8 @@ losslist_classif_benchmark = train_classifier(cnn_benchmark, bench_optim, bench_
 plt.plot(losslist_classif_benchmark)
 ```
    
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_75_1.png)
-    
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_75_1.png)
+
 
 
 
@@ -1420,7 +1420,7 @@ plt.plot(losslist_classif)
 
 
     
-![png](../assets/posts/autoencodeur/DenoisingAutoencoder/output_85_1.png)
+![png](/assets/posts/autoencodeur/DenoisingAutoencoder/output_85_1.png)
     
 
 
