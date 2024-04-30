@@ -1,5 +1,5 @@
 ---
-title: Deep Learning - Denoising Autoencoder
+title: Denoising Autoencoder
 author:
   name: Pierre Lague & Ilian VANDENBERGHE
   link: 
