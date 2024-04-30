@@ -3,7 +3,7 @@ title: Deep Learning - Denoising Autoencoder
 author:
   name: Pierre Lague & François Muller 
   link: 
-date: 2024-04-25 09:45:00 +0800
+date: 2024-04-11 09:45:00 +0800
 categories: [Studies, U-Lille, Python]
 tags: [Python, ML]
 math: true
