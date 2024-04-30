@@ -6,7 +6,7 @@ order: 4
 
 ### Click the logo to download my CV
 <html>
-  <a href="/assets/img/GoogleApplication_CV.pdf" download>
+  <a href="/assets/img/CV_LAGUE.pdf" download>
     <img src="/assets/img/site-logo-dark.png" alt="PierreLague" width="104" height="142">
   </a>
 </html>
