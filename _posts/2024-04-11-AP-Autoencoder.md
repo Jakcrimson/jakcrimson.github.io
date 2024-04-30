@@ -11,7 +11,7 @@ mermaid: true
 image:
   src: '/assets/posts/autoencodeur/DenoisingAutoencoder/ae.png'
   width: 800
-marp: true
+marp: false
   height: 600
 ---
 
