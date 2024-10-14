@@ -9,7 +9,7 @@ order: 5
 ![](https://komarev.com/ghpvc/?username=jakcrimson&color=green&style=for-the-badge)
 
 - 🌱 I’m currently learning artificial intelligence and it's applications to machine learning at the **University of Lille, France.**
-- 🔭 **I am enrolled in the second year of the Machine Learning Masters degree with an apprenticehip @ SUDO Group in Lille**, where I will assist PhD. Chakib BELGAID in his research in sustainable AI and generative AI (mostly LLM).
+- 🔭 **I am enrolled in the second year of the Machine Learning Masters degree with an apprenticehip @ SUDO Group in Lille**, where I will assist PhD. Chakib BELGAID in his research in sustainable AI (Green IT & FinOps) and generative AI (mostly LLM).
 - 🪐 **I will be conducting my master's thesis on reinforcement learning applied to load-balancing in dynamic multi-agent environments.**
 - 👯 I’m looking to collaborate on various research projects involving reinforcement learning and image analysis.
 
